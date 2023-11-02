@@ -1,0 +1,49 @@
+[*]
+[*] GTKWave Analyzer v3.3.103 (w)1999-2019 BSI
+[*] Mon Oct 30 09:01:04 2023
+[*]
+[dumpfile] "/home/ubuntu/Desktop/lab4/lab-exmem_fir/testbench/counter_la_fir/counter_la_fir.vcd"
+[dumpfile_mtime] "Mon Oct 30 08:55:22 2023"
+[dumpfile_size] 147567520
+[savefile] "/home/ubuntu/Desktop/lab4/lab-exmem_fir/testbench/counter_la_fir/waveform.gtkw"
+[timestart] 0
+[size] 1920 1057
+[pos] -1 -1
+*-28.000000 3800387500 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] counter_la_fir_tb.
+[treeopen] counter_la_fir_tb.uut.
+[treeopen] counter_la_fir_tb.uut.mprj.
+[treeopen] counter_la_fir_tb.uut.mprj.mprj.
+[sst_width] 214
+[signals_width] 237
+[sst_expanded] 1
+[sst_vpaned_height] 313
+@22
+counter_la_fir_tb.checkbits[15:0]
+@28
+counter_la_fir_tb.uut.mprj.mprj.wb_clk_i
+@22
+[color] 3
+counter_la_fir_tb.uut.mprj.mprj.wbs_adr_i[31:0]
+counter_la_fir_tb.uut.mprj.mprj.wbs_dat_i[31:0]
+counter_la_fir_tb.uut.mprj.mprj.wbs_dat_o[31:0]
+@28
+counter_la_fir_tb.uut.mprj.mprj.wbs_cyc_i
+counter_la_fir_tb.uut.mprj.mprj.wbs_stb_i
+counter_la_fir_tb.uut.mprj.mprj.wbs_we_i
+@24
+[color] 1
+counter_la_fir_tb.uut.mprj.mprj.counter[3:0]
+@29
+[color] 2
+counter_la_fir_tb.uut.mprj.mprj.wbs_ack_o
+@22
+counter_la_fir_tb.uut.mprj.mprj.user_bram.WE0[3:0]
+@28
+counter_la_fir_tb.uut.mprj.mprj.user_bram.EN0
+@22
+counter_la_fir_tb.uut.mprj.mprj.user_bram.Di0[31:0]
+counter_la_fir_tb.uut.mprj.mprj.user_bram.Do0[31:0]
+counter_la_fir_tb.checkbits[15:0]
+[pattern_trace] 1
+[pattern_trace] 0
