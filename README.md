@@ -1,6 +1,6 @@
 # Soc_design_Lab4-1
 
-Run Simulation:
+Run Simulation:  
 ![/run_sim](/dump/run_sim.png)
 
 1. Writing BRAM:
