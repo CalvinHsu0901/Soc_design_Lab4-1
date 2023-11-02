@@ -6,8 +6,8 @@ Run Simulation:
 1. Writing BRAM:
 ![Writing](/dump/write_bram.png)
 
-3. FIR start(AB40):
+3. FIR start (checkbits = AB40):
 ![start](/dump/AB40.png)
 
-4. FIR done(AB51):
+4. FIR done (checkbits = AB51):
 ![done](/dump/AB51.png)
