@@ -3,7 +3,9 @@ Soc_design_Lab4-1
 
 <!--ts-->
    * [Run Simulation](#run-simulation)
-   * [1. Writing BRAM](#1-writing-bram)
+     * [1. Writing BRAM](#1-writing-bram)
+     * [2. FIR start (checkbits = AB40)](#2.-FIR-start-(checkbits-=-AB40))
+     * [3. FIR done (checkbits = AB51)](#3.-FIR-done-(checkbits-=-AB51))
 <!--te-->
 
 ## Run Simulation:  
